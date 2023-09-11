@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(10, 10, 88);
+}
+
+
+/* .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: auto;
+} */
+
+h1{
+    font-family: 'Space Mono', monospace;
+    font-size: 80px;
+    color: rgb(32, 228, 32);
+}
